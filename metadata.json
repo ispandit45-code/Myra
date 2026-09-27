@@ -1,0 +1,6 @@
+{
+  "name": "Tau AI",
+  "description": "Luxury Haryanvi voice assistant that controls phone and apps with sub-500ms voice commands and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

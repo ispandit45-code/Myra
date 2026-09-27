@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tau AI</string>
+    <string name="subtitle">हरियाणवी वॉइस असिस्टेंट</string>
+    <string name="tagline">हुक्म कर चौधरा, फोन चालैगा तेरे इशारे पै!</string>
+    <string name="mic_listening">सुणूँ सूं, बोल लाडले…</string>
+    <string name="mic_idle">बोलण खातर बटन दबाओ</string>
+    <string name="app_search_placeholder">ऐप या हुक्म खोजो…</string>
+    <string name="accessibility_service_description">ताऊ AI नै होम, बैक, रीसेंट्स और ऍप्स नै सीधा कंट्रोल करण खातर इज़ाज़त दो।</string>
+</resources>
